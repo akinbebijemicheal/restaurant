@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/restaurant.github.io/static/css/main.7f4d3919.css",
-    "main.js": "/restaurant.github.io/static/js/main.54a806de.js",
+    "main.js": "/restaurant.github.io/static/js/main.ed17545b.js",
     "index.html": "/restaurant.github.io/index.html",
     "main.7f4d3919.css.map": "/restaurant.github.io/static/css/main.7f4d3919.css.map",
-    "main.54a806de.js.map": "/restaurant.github.io/static/js/main.54a806de.js.map"
+    "main.ed17545b.js.map": "/restaurant.github.io/static/js/main.ed17545b.js.map"
   },
   "entrypoints": [
     "static/css/main.7f4d3919.css",
-    "static/js/main.54a806de.js"
+    "static/js/main.ed17545b.js"
   ]
 }
