@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/restaurant.github.io/static/css/main.9f4d7093.css",
-    "main.js": "/restaurant.github.io/static/js/main.e9499ade.js",
+    "main.css": "/restaurant.github.io/static/css/main.70f59caf.css",
+    "main.js": "/restaurant.github.io/static/js/main.e790c9f9.js",
     "static/media/food.jpg": "/restaurant.github.io/static/media/food.ff684182b8fdcb88b453.jpg",
+    "static/media/salad.jpg": "/restaurant.github.io/static/media/salad.43e4ea432f3811e59fe5.jpg",
+    "static/media/greekcheese.jpg": "/restaurant.github.io/static/media/greekcheese.dd0de201a8f3dcd6348d.jpg",
+    "static/media/brownies.jpg": "/restaurant.github.io/static/media/brownies.86978a9f51b8a9a7f0b2.jpg",
+    "static/media/vegetarianbagel.jpg": "/restaurant.github.io/static/media/vegetarianbagel.22fed7fb7a431f849953.jpg",
+    "static/media/sandwich.jpg": "/restaurant.github.io/static/media/sandwich.f617b7047d65b17d7b20.jpg",
+    "static/media/walnutbrownie.jpg": "/restaurant.github.io/static/media/walnutbrownie.1f36b4c2d12ca03fcbae.jpg",
+    "static/media/apple.jpg": "/restaurant.github.io/static/media/apple.7880cb68a27013057c65.jpg",
+    "static/media/closepizza.jpg": "/restaurant.github.io/static/media/closepizza.3ee4af742d030bc795ab.jpg",
     "index.html": "/restaurant.github.io/index.html",
-    "main.9f4d7093.css.map": "/restaurant.github.io/static/css/main.9f4d7093.css.map",
-    "main.e9499ade.js.map": "/restaurant.github.io/static/js/main.e9499ade.js.map"
+    "main.70f59caf.css.map": "/restaurant.github.io/static/css/main.70f59caf.css.map",
+    "main.e790c9f9.js.map": "/restaurant.github.io/static/js/main.e790c9f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f4d7093.css",
-    "static/js/main.e9499ade.js"
+    "static/css/main.70f59caf.css",
+    "static/js/main.e790c9f9.js"
   ]
 }
