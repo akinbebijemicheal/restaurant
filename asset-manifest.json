@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/restaurant.github.io/static/css/main.7f4d3919.css",
-    "main.js": "/restaurant.github.io/static/js/main.ed17545b.js",
+    "main.css": "/restaurant.github.io/static/css/main.9f4d7093.css",
+    "main.js": "/restaurant.github.io/static/js/main.e9499ade.js",
+    "static/media/food.jpg": "/restaurant.github.io/static/media/food.ff684182b8fdcb88b453.jpg",
     "index.html": "/restaurant.github.io/index.html",
-    "main.7f4d3919.css.map": "/restaurant.github.io/static/css/main.7f4d3919.css.map",
-    "main.ed17545b.js.map": "/restaurant.github.io/static/js/main.ed17545b.js.map"
+    "main.9f4d7093.css.map": "/restaurant.github.io/static/css/main.9f4d7093.css.map",
+    "main.e9499ade.js.map": "/restaurant.github.io/static/js/main.e9499ade.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f4d3919.css",
-    "static/js/main.ed17545b.js"
+    "static/css/main.9f4d7093.css",
+    "static/js/main.e9499ade.js"
   ]
 }
