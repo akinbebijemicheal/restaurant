@@ -1,4 +1,4 @@
-.container{
+.containerr{
     width:auto;
     height: 660px;
 }
@@ -7,14 +7,14 @@
     height:auto;
     position: sticky;
 }
-.containerchild{
+.containerrchild{
     width:100%;
     height:660px;
     background-color: rgba(0, 0, 0 , 0.5);
     margin-top: -51.5%;
     position: absolute;
 }
-.h3{
+.h32{
     color:white;
     margin-left:470px;
     font-size:20px;
@@ -22,7 +22,7 @@
     margin-top:150px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.h1{
+.h11{
     color:white;
     font-family: 'Times New Roman', Times, serif;
     font-size:70px;
@@ -41,7 +41,7 @@
     margin-left:230px;
     font-size:20px;
     font-weight:lighter;
-    margin-top:-20px;
+    margin-top:10px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .buttonn{

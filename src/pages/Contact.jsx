@@ -1,12 +1,12 @@
 import React from 'react';
-import Navbar from '../components/Navbar';
+import Navbarr from '../components/Navbarr';
 import '../components/contact.css';
 
 
 const Contact = () => {
   return (
     <div>
-        <Navbar />
+        <Navbarr />
         <h1>This is Contact</h1>
     </div>
   )
