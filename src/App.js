@@ -1,9 +1,8 @@
 
 import './App.css';
 import {
-  BrowserRouter as Router,
   Routes,
-  Route,
+  Route
 } from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
@@ -14,7 +13,6 @@ import Product from './pages/Product';
 function App() {
   return (
     
-    <Router>
     
     
   
@@ -27,7 +25,6 @@ function App() {
 
     </Routes>
 
-    </Router>
     
     
   );

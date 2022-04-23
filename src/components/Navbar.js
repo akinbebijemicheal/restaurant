@@ -7,20 +7,18 @@ import {
 const Navbar = () => {
   return (
     <div className='navbar'>
-     <ul>
-       <li>
-         <Link to='/'>Home</Link>
-       </li>
-       <li>
-         <Link to='/About'>About</Link>
-       </li>
-       <li>
-         <Link to="/Contact">Contact</Link>
-        </li>
-        <li>
-         <Link to="/Product">Product</Link>
-        </li> 
-  </ul>
+        <span className='logo'>TastyMeals</span>
+     
+         <Link to='/' className='navlink1'>Home</Link>
+      
+         <Link to='/About' className='navlink2'>About</Link>
+      
+         <Link to="/Contact" className='navlink3'>Contact</Link>
+        
+         <Link to="/Product" className='navlink4'>Product</Link>
+
+         <button className='button'><Link to="/Product" className='buttonlink'>Book a Table</Link></button>
+       
     </div>
   )
 }

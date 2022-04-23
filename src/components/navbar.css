@@ -1,5 +1,49 @@
 .navbar{
-    background-color: green;
-    width:auto;
+    width:100%;
     height:80px;
+    position: sticky;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    font-size:30px;
+    margin-left:-20px;
+    color:white;
+    font-family: cursive;
+    text-decoration:line-through
+}
+.navlink1{
+    color:white;
+    font-size:15px;
+    margin-left: 300px;
+    text-decoration: none;
+}.navlink2{
+    color:white;
+    font-size:15px;
+    margin: 50px;
+    text-decoration: none;
+}.navlink3{
+    color:white;
+    font-size:15px;
+    margin-left: 50px;
+    text-decoration: none;
+}.navlink4{
+    color:white;
+    font-size:15px;
+    margin-left: 50px;
+    text-decoration: none;
+}
+.button{
+    margin-left: 300px;
+    width:130px;
+    height:40px;
+    background-color: #cb4601;
+    border-radius: 20px;
+    border-style: none;
+}
+.buttonlink{
+    font-size:14px;
+    color: white;
+    text-decoration: none;
 }
